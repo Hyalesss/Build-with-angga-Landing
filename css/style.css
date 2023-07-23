@@ -85,14 +85,14 @@ body {
 
 .navbar-nav .nav-item a:hover {
     color: var(--blue);
-    transition: all 0.3s ease;
+    transition: all 0.5s ease;
     font-weight: var(--fwsemibold);
 }
 
 
 .navbar-nav .nav-item a {
     color: var(--Navy);
-    transition: all 0.3s ease;
+    transition: all 0.5s ease;
 }
 
 .navbar-nav .nav-item {
